@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://atoposhe.github.io/HRomx/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <lastmod>2025-10-20</lastmod>
     </url>
     <url>
-         <loc>https://atoposhe.github.io/HRomx/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E5%BA%94%E7%94%A8%E5%B1%82/</loc>
-         <lastmod>2025-10-16</lastmod>
+         <loc>https://atoposhe.github.io/HRomx/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E8%AF%AD%E6%B3%95%E6%8C%87%E5%AF%BC%E7%BF%BB%E8%AF%91/</loc>
+         <lastmod>2025-10-20</lastmod>
+    </url>
+    <url>
+         <loc>https://atoposhe.github.io/HRomx/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%92%8C%E5%9B%A0%E7%89%B9%E7%BD%91/</loc>
+         <lastmod>2025-10-20</lastmod>
     </url>
 </urlset>
